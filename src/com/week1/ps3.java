@@ -15,7 +15,7 @@ public class ps3 {
 
         // Problem3
         String letter = "Dear <|name|>, Thanks a lot!";
-        letter = letter.replace("<|name|>","Khusbhoo Ma'am");
+        letter = letter.replace("<|name|>","Khushboo Ma'am");
         System.out.println(letter+"\n");
 
         // Problem4
@@ -24,7 +24,7 @@ public class ps3 {
         System.out.println(myString.indexOf("   ")+"\n");
 
         // Problem5
-        String myLetter = "Dear Khusbhoo Ma'am,\n\tThis Internship is Nice.\nThanks!";
+        String myLetter = "Dear Khushboo Ma'am,\n\tThis Internship is Nice.\nThanks!";
         System.out.println(myLetter);
 
     }
